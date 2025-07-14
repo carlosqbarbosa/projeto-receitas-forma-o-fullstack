@@ -16,18 +16,17 @@ Este é um projeto desenvolvido durante o **Módulo 3 da Formação Fullstack da
 > Cupcake de café com chantilly — o bolinho perfeito para acompanhar o café do dia a dia ☕🧁
 
 ---
-
 ## 📂 Estrutura de Pastas
-
+```text
 PÁGINA_DE_RECEITA/
 ├── assets/
-│ ├── bg-image.png
-│ ├── coracao.svg
-│ └── main-image.png
+│   ├── bg-image.png
+│   ├── coracao.svg
+│   └── main-image.png
 ├── index.html
 ├── style.css
 └── docs/
-└── screenshot.png
+    └── screenshot.png
 
 ## 🛠️ Tecnologias Utilizadas
 
